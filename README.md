@@ -1,3 +1,5 @@
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Achintha-999/cpp-headers-library)
+
 # Password Generator Web
 
 ## Overview
