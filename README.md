@@ -49,13 +49,13 @@
 
 5. Open the application in your browser at the provided local development URL.
 
-####Example Usage
-Select the desired password length.
-Choose whether to include uppercase letters, numbers, and symbols.
-Click "Generate Password" to create a secure password.
-View the estimated strength of the generated password.
+#### Example Usage
+- Select the desired password length.
+- Choose whether to include uppercase letters, numbers, and symbols.
+- Click "Generate Password" to create a secure password.
+- View the estimated strength of the generated password.
 
-####Technologies Used
-TypeScript: For type-safe and scalable code.
-Vite: For fast development and bundling.
-HTML & CSS: For the user interface.
+#### Technologies Used
+- TypeScript: For type-safe and scalable code.
+- Vite: For fast development and bundling.
+- HTML & CSS: For the user interface.
