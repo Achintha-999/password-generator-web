@@ -25,6 +25,7 @@
 
 ---
 
+
 ## ⚙️ How It Works
 
 1. **🔑 Password Generation**
