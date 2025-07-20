@@ -73,7 +73,8 @@
 
 > Give your accounts the security they deserve with strong, unique passwords!
 
-####Technologies Used
+#### Technologies Used
+
 TypeScript: For type-safe and scalable code.
 Vite: For fast development and bundling.
 HTML & CSS: For the user interface.
